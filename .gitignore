@@ -2,3 +2,6 @@
 .gitignore
 /jianpu/*.pdf
 /jianpu/*.ly
+/jianpu/*.py
+/jianpu/*.sh
+/jianpu/*.midi
