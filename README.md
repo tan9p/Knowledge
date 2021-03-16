@@ -7,3 +7,5 @@ Shenghuo Baike
 *家有问题儿童* why.md
 
 *读书笔记* booknote\
+
+*儿歌简谱* jianpu\
