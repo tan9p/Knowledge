@@ -9,3 +9,5 @@ Shenghuo Baike
 *读书笔记* booknote\
 
 *儿歌简谱* jianpu\
+
+*童谣顺口溜* rhyme.md
